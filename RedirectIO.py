@@ -11,7 +11,7 @@ __author__     = "jlettvin"
 __maintainer__ = "jlettvin"
 __email__      = "jlettvin@gmail.com"
 __copyright__  = "Copyright(c) 2013 Jonathan D. Lettvin, All Rights Reserved"
-__license__    = "Trade Secret"
+__license__    = "GPLv3"
 __status__     = "Production"
 __version__    = "0.0.1"
 
